@@ -1,8 +1,8 @@
 {
     "name": "Meu primeiro módulo",
-    "description": "meu primeiro módulo",
-    "summary": "meu primeiro módulo que faz nada",
-    "author": "Fulano de tal",
+    "description": "Primeiro módulo realizado para aprendizado",
+    "summary": "Feito para aprender",
+    "author": "Gabriel",
     "depends": [
         "sale",
         "account"
